@@ -4,6 +4,8 @@ app_publisher = "Charles"
 app_description = "Customizations to the Webshop UI"
 app_email = "charles@example.com"
 app_license = "mit"
+
+update_website_context = "webshop_ui.overrides.website_context"
 # required_apps = []
 
 # Includes in <head>
